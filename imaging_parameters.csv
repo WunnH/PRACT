@@ -1,0 +1,9 @@
+Modality,Protocol_variant,N_sequences,TR_ms,TE_ms,Flip_angle_deg,Native_acquisition_voxel_size_mm,Slice_thickness_mm,Matrix_size,Field_strength_T,Scanner_vendor,Scanner_model
+T1WI,3T protocol,19,2300,2.29,8,1.0000x0.9375x0.9375,1,192x256x256,3,Siemens,Prisma
+T1WI,1.5T protocol,1,12.14,5.052,20,0.4688x0.4688x1.0000,1,512x512x112,1.5,GE,Signa HDxt
+T2WI,3T protocol,19,5550,90,90,0.8984x0.8984x2.0000,2,256x256x66,3,Siemens,Prisma
+T2WI,1.5T protocol,1,6940,103.1,90,0.4688x0.4688x2.0000,2,512x512x40,1.5,GE,Signa HDxt
+SWI,3T protocol - 80 slices,9,27,20,15,0.9375x0.9375x1.5000,1.5,256x256x80,3,Siemens,Prisma
+SWI,3T protocol - 88 slices,3,27,20,15,0.9375x0.9375x1.5000,1.5,256x256x88,3,Siemens,Prisma
+SWI,3T protocol - 9 slices,2,27,20,15,0.9375x0.9375x1.5000,1.5,256x256x9,3,Siemens,Prisma
+SWI,3T protocol - 96 slices,1,27,20,15,0.9375x0.9375x1.5000,1.5,256x256x96,3,Siemens,Prisma
